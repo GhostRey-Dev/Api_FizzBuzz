@@ -10,3 +10,6 @@ npm install
 npm run start
 
 ir al navegador en el puerto 3000
+
+ejemplo:
+http://localhost:3000/api/fizzbuzz?number=15

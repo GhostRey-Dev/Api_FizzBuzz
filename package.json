@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "name": "api_fizzbuzz",
+  "description": "Api Rest que resuelve el algoritmo FizzBuzz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhostRey-Dev/Api_FizzBuzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GhostRey-Dev/Api_FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/GhostRey-Dev/Api_FizzBuzz#readme"
+}
